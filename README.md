@@ -1,16 +1,20 @@
-Information
-Hi there 👋
-My name is Nguyen Tien Manh
+# Information
+
+### Hi there 👋
+
+### I'm Billy
 
 🧑‍💻 Smart Contract Security Enthusiast
+
 🖥️ Run Validator
 
-Validator testnet:
-Aptos
-Celestia
-Dymension
-Covalent
-Fleek
+# Validator testnet:
 
-Social Link: 
-X: https://twitter.com/Tienmanh9956 
+- Aptos
+- Celestia
+- Dymension
+- Covalent
+- Fleek
+- XAI Network
+
+
