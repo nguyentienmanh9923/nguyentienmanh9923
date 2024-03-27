@@ -1,6 +1,6 @@
 # Information
 
-### Hi there 👋
+## Hi there 👋
 
 ### I'm Billy
 
@@ -12,7 +12,7 @@
 
 ✔️Proficient in Java, Python, JavaScript
 
-# Validator testnet:
+## Validator testnet:
 
 - Aptos
 - Celestia
