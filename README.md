@@ -1,4 +1,3 @@
-# Information
 
 ## Hi there 👋
 
