@@ -6,7 +6,11 @@
 
 🧑‍💻 Smart Contract Security Enthusiast
 
-🖥️ Run Validator
+🔑 Node Management and Operation
+
+🤝Participation in negotiation processes and community building
+
+✔️Proficient in Java, Python, JavaScript
 
 # Validator testnet:
 
