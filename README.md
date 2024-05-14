@@ -11,8 +11,7 @@
 
 ✔️Proficient in Java, Python, JavaScript
 
-## Validator testnet:
-
+## Validator 
 - Aptos
 - Celestia
 - Dymension
